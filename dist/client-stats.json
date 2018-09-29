@@ -2,9 +2,9 @@
   "errors": [],
   "warnings": [],
   "version": "3.12.0",
-  "hash": "a56980bf971311623978",
-  "time": 12829,
-  "publicPath": "/",
+  "hash": "da6200ceb7e6e5cb44cc",
+  "time": 12785,
+  "publicPath": "./",
   "assetsByChunkName": {
     "src/containers/Home": "templates/src/containers/Home.ba9c560a.js",
     "src/containers/Post": "templates/src/containers/Post.be05c9ef.js",
@@ -12,11 +12,11 @@
     "src/containers/About": "templates/src/containers/About.48e7e8b3.js",
     "src/containers/404": "templates/src/containers/404.78fd131c.js",
     "main": [
-      "main.ef08afa6.js",
-      "styles.a56980bf.css",
-      "styles.a56980bf.css.map"
+      "main.13e7e1ba.js",
+      "styles.da6200ce.css",
+      "styles.da6200ce.css.map"
     ],
-    "bootstrap": "bootstrap.2b9e8440.js"
+    "bootstrap": "bootstrap.a4f96a0c.js"
   },
   "assets": [
     {
@@ -82,8 +82,8 @@
       "emitted": true
     },
     {
-      "name": "main.ef08afa6.js",
-      "size": 281962,
+      "name": "main.13e7e1ba.js",
+      "size": 281967,
       "chunks": [
         5
       ],
@@ -94,8 +94,8 @@
       "isOverSizeLimit": true
     },
     {
-      "name": "bootstrap.2b9e8440.js",
-      "size": 1570,
+      "name": "bootstrap.a4f96a0c.js",
+      "size": 1571,
       "chunks": [
         6
       ],
@@ -105,7 +105,7 @@
       "emitted": true
     },
     {
-      "name": "styles.a56980bf.css",
+      "name": "styles.da6200ce.css",
       "size": 383,
       "chunks": [
         5
@@ -116,7 +116,7 @@
       "emitted": true
     },
     {
-      "name": "styles.a56980bf.css.map",
+      "name": "styles.da6200ce.css.map",
       "size": 96,
       "chunks": [
         5
@@ -135,10 +135,10 @@
         5
       ],
       "assets": [
-        "bootstrap.2b9e8440.js",
-        "main.ef08afa6.js",
-        "styles.a56980bf.css",
-        "styles.a56980bf.css.map"
+        "bootstrap.a4f96a0c.js",
+        "main.13e7e1ba.js",
+        "styles.da6200ce.css",
+        "styles.da6200ce.css.map"
       ],
       "isOverSizeLimit": true
     }
@@ -590,11 +590,11 @@
         "main"
       ],
       "files": [
-        "main.ef08afa6.js",
-        "styles.a56980bf.css",
-        "styles.a56980bf.css.map"
+        "main.13e7e1ba.js",
+        "styles.da6200ce.css",
+        "styles.da6200ce.css.map"
       ],
-      "hash": "ef08afa698cd502b4d9d",
+      "hash": "13e7e1bad5c0b9abbb21",
       "parents": [
         6
       ],
@@ -1953,9 +1953,9 @@
             5
           ],
           "assets": [],
-          "issuer": "/usr/local/lib/node_modules/react-static/node_modules/babel-loader/lib/index.js??ref--0-oneOf-0-0!/usr/local/lib/node_modules/react-static/node_modules/react-router-dom/es/HashRouter.js",
-          "issuerId": 68,
-          "issuerName": "/usr/local/lib/node_modules/react-static/node_modules/react-router-dom/es/HashRouter.js",
+          "issuer": "/usr/local/lib/node_modules/react-static/node_modules/babel-loader/lib/index.js??ref--0-oneOf-0-0!/usr/local/lib/node_modules/react-static/node_modules/react-router-dom/es/BrowserRouter.js",
+          "issuerId": 62,
+          "issuerName": "/usr/local/lib/node_modules/react-static/node_modules/react-router-dom/es/BrowserRouter.js",
           "failed": false,
           "errors": 0,
           "warnings": 0,
@@ -3405,9 +3405,9 @@
             5
           ],
           "assets": [],
-          "issuer": "/usr/local/lib/node_modules/react-static/node_modules/babel-loader/lib/index.js??ref--0-oneOf-0-0!/usr/local/lib/node_modules/react-static/node_modules/react-router/es/generatePath.js",
-          "issuerId": 33,
-          "issuerName": "/usr/local/lib/node_modules/react-static/node_modules/react-router/es/generatePath.js",
+          "issuer": "/usr/local/lib/node_modules/react-static/node_modules/babel-loader/lib/index.js??ref--0-oneOf-0-0!/usr/local/lib/node_modules/react-static/node_modules/react-router/es/matchPath.js",
+          "issuerId": 20,
+          "issuerName": "/usr/local/lib/node_modules/react-static/node_modules/react-router/es/matchPath.js",
           "failed": false,
           "errors": 0,
           "warnings": 0,
@@ -7367,9 +7367,9 @@
         "bootstrap"
       ],
       "files": [
-        "bootstrap.2b9e8440.js"
+        "bootstrap.a4f96a0c.js"
       ],
-      "hash": "2b9e84400ae0beca3a18",
+      "hash": "a4f96a0cc377017e2cfc",
       "parents": [],
       "modules": [],
       "filteredModules": 0,
@@ -8731,9 +8731,9 @@
         5
       ],
       "assets": [],
-      "issuer": "/usr/local/lib/node_modules/react-static/node_modules/babel-loader/lib/index.js??ref--0-oneOf-0-0!/usr/local/lib/node_modules/react-static/node_modules/react-router-dom/es/HashRouter.js",
-      "issuerId": 68,
-      "issuerName": "/usr/local/lib/node_modules/react-static/node_modules/react-router-dom/es/HashRouter.js",
+      "issuer": "/usr/local/lib/node_modules/react-static/node_modules/babel-loader/lib/index.js??ref--0-oneOf-0-0!/usr/local/lib/node_modules/react-static/node_modules/react-router-dom/es/BrowserRouter.js",
+      "issuerId": 62,
+      "issuerName": "/usr/local/lib/node_modules/react-static/node_modules/react-router-dom/es/BrowserRouter.js",
       "failed": false,
       "errors": 0,
       "warnings": 0,
@@ -10183,9 +10183,9 @@
         5
       ],
       "assets": [],
-      "issuer": "/usr/local/lib/node_modules/react-static/node_modules/babel-loader/lib/index.js??ref--0-oneOf-0-0!/usr/local/lib/node_modules/react-static/node_modules/react-router/es/generatePath.js",
-      "issuerId": 33,
-      "issuerName": "/usr/local/lib/node_modules/react-static/node_modules/react-router/es/generatePath.js",
+      "issuer": "/usr/local/lib/node_modules/react-static/node_modules/babel-loader/lib/index.js??ref--0-oneOf-0-0!/usr/local/lib/node_modules/react-static/node_modules/react-router/es/matchPath.js",
+      "issuerId": 20,
+      "issuerName": "/usr/local/lib/node_modules/react-static/node_modules/react-router/es/matchPath.js",
       "failed": false,
       "errors": 0,
       "warnings": 0,
@@ -14401,7 +14401,7 @@
     {
       "errors": [],
       "warnings": [],
-      "publicPath": "/",
+      "publicPath": "./",
       "assetsByChunkName": {},
       "assets": [],
       "filteredAssets": 0,
@@ -14427,7 +14427,7 @@
           "files": [
             "extract-text-webpack-plugin-output-filename"
           ],
-          "hash": "47283b377d9702c56573",
+          "hash": "b7d31aabff49f1f55ad8",
           "parents": [],
           "modules": [
             {
